@@ -1,4 +1,4 @@
-1.Test Talks Podcast
+1. Test Talks Podcast
 
 Link: <https://podcasts.apple.com/us/podcast/testtalks-automation-awesomeness/id826722706?mt=2>
 
