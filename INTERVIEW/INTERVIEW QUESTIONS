@@ -18,5 +18,103 @@ You test the app manually step by step.
 
 A small piece of code developed to correct a major software bug or fault and released as quickly as possible.
 
+6) State any difference between SDET and Manual Software Tester
+The main difference between SDET and the Software tester is:
+SDET (Software Development Engineer in Test) can participate in test automation Manual Tester never involves in such type of activities.
 
+7) What is the definition of ad hoc testing?
+Adhoc testing is informal testing. It is performed without any planning and documentation. This kind of test is conducted randomly without any expected results.
+
+8) State the difference between priority and severity
+Priority means how important a bug is to be fixed, while severity means how- harmful or damaging the bug is to the system.
+
+9) Describe roles and responsibilities of this job
+Need to perform Test Automation and set up frameworks on platforms like Web and Mobile. Create & manage bug reports and constantly remain in touch with the development team. Communicate with clients
+You should also be able to set up and manage test automation frameworks independently.
+
+
+10) Discuss Typical working day of SDET
+On a daily basis, you mostly occupied on the following tasks:
+1. Understand project requirements 2. Creating and executing test cases 3. Reporting and testing bugs
+You also need to give your input to the design and development team.
+ 
+ 11) How do you decide what product is ready to ship?
+Upper management of the organization will take a call when a product is ready to ship when a testing team is certain that all bugs have been identified, documented, and resolved.. Although, SDET must make sure that management has all the information they need to make a correct decision.
+
+12) What are the elements of a good bug report?
+A good bug report contains a
+Descriptive summary of the bug
+The steps to reproduce the bug
+The expected and real behavior of the bug
+
+
+13) What are Alpha and Beta Testing?
+Alpha Testing helps to identify all possible bugs before releasing the product to everyday users or the public. Beta Testing is performed by users of the software application in a real environment.
+
+
+14) Name and explain the different categories that test cases are grouped by.
+Some important types of test cases used in Software development are:
+Functionality Test cases User interface Test Cases Performance Test Cases Integration Test Cases Usability Test Cases Database Test Cases Security Test Cases
+
+
+15) How will You overcome the Challenges if the Proper Documentation for testing does not exist?
+In the case when System Requirement Specification document is not available then,
+
+As SDET you need to rely on the following references if available:
+Screenshots
+A previous version of the application. Wireframes
+
+
+16) State main difference Between Quality Assurance and Quality Control?
+QA QC
+QA is more planned and systematic method Quality Control is related to the quality of of monitoring the quality of the process. This the product. QC team never find the defects
+process is followed to produce quality and suggests improvements. software and application.
+
+
+17) What is the meaning of Code Inspection?
+Code inspection allows the programmer to review their source code with a group who ask questions related to program logic, analyzing the code. It checks against some most common programming errors and verifies coding standards.
+
+
+18) Discuss what Test Plan is?
+The test plan is nothing but a document which describes the scope, approach, resources, and schedule of intended testing activities. In test plan, the tester needs to identify test items,
+Features to be tested Testing tasks
+Risks involved in the process
+
+19) What is the meaning of Test Script?
+The test script is commonly used to refer to the instructions for a specific test that carried out by an automated test tool.
+
+
+20) Describe configuration management?
+Configuration management covers the processes which need to control, coordinate, and track:
+Code
+Documentation
+Problems
+Change requests
+Designs, tools, patches
+A person who makes the changes
+
+
+21) What are walkthrough and inspection?
+The walkthrough is just an informal process. This process is conducted by the author of the document. This type of inspection done mainly with the objective of providing information and collecting suggestions for improvement.
+
+
+22) What is the objective of preparing the test plan?
+The main objective of creating Test plan is:
+
+Project scope
+Roles and Responsibilities Deadlines and deliverables.
+
+
+23) How can you test text box without background functionality?
+It is possible to check without passing any data like:
+1. Size of the Text Field 2. Min/Max characters 3. Special characters
+4. Alphanumeric values 5. Text format
+
+
+24) What kind of expertise expected out of SDET?
+Testing software is done to assess and mitigate business risk, and SDETs need to be expert in this. The SDET should able to check the quality of the software and should take part in the software design process
+
+
+25) Briefly explain Test Procedure
+A test procedure is a document which provides detailed information for the execution of test cases.
 
