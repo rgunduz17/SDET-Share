@@ -6,5 +6,7 @@ Link: <https://podcasts.apple.com/us/podcast/testtalks-automation-awesomeness/id
 
 Link: https://www.youtube.com/user/naveenanimation20/playlists 
 
+3. Software Testing Free Course
 
+Link: https://www.guru99.com/software-testing.html
 
