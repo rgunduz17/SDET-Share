@@ -15,7 +15,7 @@ FOLDERS
 
 [USEFUL LINKS] (https://github.com/rgunduz17/SDET-Share/blob/master/UsefulLinks/Links.md)
 
-  [YOUTUBE VIDEOS] (https://www.youtube.com/user/naveenanimation20/playlists)
+  [YOUTUBE VIDEOS] (https://www.youtube.com)
 
 
 [GitHub](http://github.com)
