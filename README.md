@@ -14,7 +14,7 @@
 
 - ### [USEFUL LINKS](https://github.com/rgunduz17/SDET-Share/blob/master/UsefulLinks/Links.md)
 
-  
+- ### [CLASS NOTES](https://rgunduz17.github.io/SDET-Share/) 
   
 
 
