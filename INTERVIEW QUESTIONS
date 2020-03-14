@@ -1,0 +1,22 @@
+INTERVIEW QUESTIONS
+
+
+1. Who do you test the application if there is no requirement?
+
+As a tester when we analyze the requirement, that means you are testing the requirement.
+
+2. What is lower environment? 
+development and test environment
+
+3. what is automation testing ?
+is writing a script to automate your test steps.
+
+4. what is manual testing ? 
+You test the app manually step by step.
+
+5. What is hot fix ?
+
+A small piece of code developed to correct a major software bug or fault and released as quickly as possible.
+
+
+
