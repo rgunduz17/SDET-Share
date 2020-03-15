@@ -1,0 +1,6 @@
+// str.substring(0,1)        __Buradaki 0 ilk karakter 1 de yazidaki son karakteri pull out yapiyo
+// str.length()              __Buradaki parantezin ici bos olacak. atanan deger integer stringin uzunlugunu veriyo
+// str.charAt(0)             __Buradaki 0 ilk karakteri pull out yapiyo 1 ikinci karakteri so on
+// eger \ yazdirmak istese \\ iki kere yazmak icab eder
+// eger / yazdirmak lazim gelse char degiskeni atandigi vakit '/' tek tirnak icerisunden bir karakter atanabilur.
+// if ile iki stringi esitlemek icap etse == kullanilmaz. o vakit str1.equals(str2) yazmak lazim gelur.
