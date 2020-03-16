@@ -1,1 +1,0 @@
-# herhalde gorecegiz
