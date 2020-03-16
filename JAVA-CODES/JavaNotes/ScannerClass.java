@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ScannerClass {
     public static void main(String[] args) {
 
-
+ 
     // SCANNER CLASS
 
     //import java.util.Scanner; ==> between package and className
