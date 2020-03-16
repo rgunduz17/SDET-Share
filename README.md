@@ -18,8 +18,8 @@
   
   
   
-![Cevdet Abbas]
-(https://github.com/rgunduz17/SDET-Share/blob/master/Useful-Links/cevdetabbas.png)
+![](Useful-Links/cevdetabbas.png)
+
 
 
 
