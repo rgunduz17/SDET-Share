@@ -18,8 +18,8 @@
   
   
   
-![Cevdet Abbas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Freisbaaba&psig=AOvVaw1MEmWz3EN228tofVyaIUdJ&ust=1584478446023000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDE3qnwn-gCFQAAAAAdAAAAABAD)
-
+![Cevdet Abbas]
+(https://github.com/rgunduz17/SDET-Share/blob/master/Useful-Links/cevdetabbas.png)
 
 
 
