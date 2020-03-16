@@ -12,9 +12,9 @@
 
 - ### [JAVA-CODES](https://github.com/rgunduz17/SDET-Share/tree/master/JAVA-CODES)
 
-- ### [USEFUL LINKS](https://github.com/rgunduz17/SDET-Share/blob/master/UsefulLinks/Links.md)
+- ### [USEFUL LINKS](https://github.com/rgunduz17/SDET-Share/tree/master/Useful-Links)
 
-- ### [CLASS NOTES](https://rgunduz17.github.io/SDET-Share/) 
+- ### [CLASS NOTES WEBSITE](https://rgunduz17.github.io/SDET-Share/) 
   
 
 
