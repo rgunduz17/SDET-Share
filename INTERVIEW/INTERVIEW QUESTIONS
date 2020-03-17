@@ -136,11 +136,3 @@ Daily ,15 minutes , Stand up
 Scrum projects make progress in a  series of “Sprints” 
 ▸Typical duration is 2-4 weeks
 
-
-        char FinalGrade= 'A';
-        String Grade= "";
-        Grade = (FinalGrade == 'A') ? "Super"                   // grade i bos string yapip sonra if mis gibi esitle paranteze mantiksal sinama yaz ? return yerine geciyo. 
-                :(FinalGrade == 'B') ? "Guzel"                  // : else if islevi goruyo ? yine return 
-                :(FinalGrade == 'C') ? " Fena Degil"            //
-                :(FinalGrade == 'D') ? " Idare Eder"
-                : "Dersten kaldin";                             // buda else yerine geciyo
