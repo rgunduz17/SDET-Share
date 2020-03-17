@@ -22,12 +22,14 @@ public class TernaryClass {
 
         char FinalGrade= 'A';
         String Grade= "";
-        Grade = (FinalGrade == 'A') ? "Super"
-                :(FinalGrade == 'B') ? "Guzel"
-                :(FinalGrade == 'C') ? " Fena Degil"
+        Grade = (FinalGrade == 'A') ? "Super"                   // grade i bos string yapip sonra if mis gibi esitle paranteze mantiksal sinama yaz ? return yerine geciyo. 
+                :(FinalGrade == 'B') ? "Guzel"                  // : else if islevi goruyo ? yine return 
+                :(FinalGrade == 'C') ? " Fena Degil"            //
                 :(FinalGrade == 'D') ? " Idare Eder"
-                : "Dersten kaldin";
-
+                : "Dersten kaldin";                             // buda else yerine geciyo
+        
+        if (a<2) return 5; else return 8:
+        
         System.out.println(Grade);
         System.out.println("************************************************");
 
