@@ -132,6 +132,101 @@ public class StringClass {
          System.out.println("*****************************************");
 
 
+         // 9. indexOf (str)
+
+        String a10= "Batch 18 is a great group";
+
+        // a10.indexOf("g");
+
+        int num1 = a10.indexOf("g");
+
+        System.out.println( "index number of \"g\" is: " + a10.indexOf("g"));
+        System.out.println( "index number of \"g\" is: " + num1);
+
+
+
+        String email= "Randomemail@gmail.com";
+
+        String emailType = email.substring(email.indexOf("@")+1,email.indexOf(".") );
+
+        System.out.println("Email type is : "+emailType);
+
+
+        System.out.println("*****************************************");
+
+        //  10.  lastIndexOf()
+
+        String a11= "VABCDEFGHIJKLMNOPRSTUVYZ";
+
+        int num3= a11.indexOf("V");
+        int num4 = a11.lastIndexOf("V");
+
+        System.out.println("First indexOf \"V\" is : "+num3);
+        System.out.println("Last indexOf \"V\" is : "+num4);
+
+
+        System.out.println("*****************************************");
+
+//      11. isEmpty()
+
+        String a12= "Cybertek";
+        boolean test1= a12.isEmpty();
+        System.out.println(test1);
+
+        String a13 = "";
+
+        a13 = (a13.isEmpty()) ? "its empty String" : "it not empty";
+        System.out.println(a13);
+
+        System.out.println("*****************************************");
+
+//      12. equals()
+
+        String a14 = "Cybertek";
+
+        String a15= new String("Cybertek");
+
+        System.out.println(a14 == a15);
+        boolean a16 = a14.equals(a15);
+        System.out.println("a14 equals to a15 is: "+a16);
+        
+        System.out.println("*****************************************");
+
+
+//      13. contains (str)
+
+        //return boolean expression
+
+        String a17 = "Ridvan";
+        //name.contains ("Good man");
+
+        boolean test2 = name.contains ("Good man");
+        System.out.println("Contains: " + test2);
+
+
+       System.out.println("*****************************************");
+
+
+
+//      14. startsWith(str)
+//      boolean expression
+
+        String today = "Java";
+        boolean test3 = today.startsWith("J");
+
+        System.out.println(today+ " starts with J is : " + test3);
+
+        System.out.println("*****************************************");
+
+
+//      15. endsWith(str)
+//        boolean expression
+
+        String tomorrow = "Friday";
+        boolean test4 = tomorrow.endsWith("y");
+        System.out.println(tomorrow+ " ends with y is: " +test4);
+
+        System.out.println("*****************************************");
 
 
 
