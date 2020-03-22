@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class RidasCoffeeShop {
+public class ridascoffeeshop {
 
     public static void main(String[] args) {
 
