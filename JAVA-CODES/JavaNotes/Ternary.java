@@ -15,8 +15,8 @@ public class TernaryClass {
 
 //
 //       RULE   variableName = (if) Boolean value ? return statement
-//            : (else if) Boolean value ? return statement
-//            : (else) return statement;
+//            : (else if) Boolean value ? return statement              //abi sana dedim o booleana benziyo diye
+//            : (else) return statement;                                //sadece booleanlarda yapiliyo galiba bu
 //
 
 
@@ -28,8 +28,12 @@ public class TernaryClass {
                 :(FinalGrade == 'D') ? " Idare Eder"
                 : "Dersten kaldin";                             // buda else yerine geciyo
         
-        if (a<2) return 5; else return 8:
-        
+        if (a<2) return 5; else return 8:                       // bu sekilde daha iyi gibi ama yinede en mantiklisi 
+                                                                // parantezli olanlar
+        if (a==2) return 2; else if (a<2) return 1 ; else return 4; // bu sekildede else if konulabiliyor.
+            
+            
+            
         System.out.println(Grade);
         System.out.println("************************************************");
 
